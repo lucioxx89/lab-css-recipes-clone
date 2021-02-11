@@ -3,10 +3,12 @@
     text-align: center;
     justify-items: center;
     background-image: url(../images/apple-pie.jpg);
-    background-size:contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 900px;
+    background-size:cover;
+   /* background-repeat: no-repeat;
+    background-position: center;*/
+    height: 600px;
+    margin-left: 50px;
+    margin-right: 50px;
     
 }
 
@@ -14,7 +16,7 @@ h1 {
     font-size: 70px;
     color:white;
     text-align: center;
-    padding-top: 400px;
+    padding-top: 250px;
 }
 
 .container {
